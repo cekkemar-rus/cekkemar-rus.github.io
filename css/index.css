@@ -1,16 +1,23 @@
 #kryshka {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 50px;
-  background: #acacac;
-  color: white;
-  z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background: #acacac;
+    color: white;
+    z-index: 1000;
 }
 #xh1 {
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+}
+#xh1 a {
+    text-decoration: none;
+    color: inherit;
+}
+#xh1 a:hover {
+    text-decoration: underline;
 }
 #content {
-  margin-top: 70px;
+    margin-top: 70px;
 }
