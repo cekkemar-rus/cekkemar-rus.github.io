@@ -1,12 +1,15 @@
 #kryshka {
-  position: fixed;     /* <== делает его закреплённым */
-  top: 0;              /* привязываем к верху окна */
+  position: fixed;
+  top: 0;
   left: 0;
-  width: 100%;         /* на всю ширину */
-  height: 50px;        /* можно настроить как хочешь */
-  background: #333;    /* цвет фона */
+  width: 100%;
+  height: 50px;
+  background: #acacac;
   color: white;
   padding: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* тень — для красоты */
-  z-index: 1000;       /* чтобы был поверх всего */
+  z-index: 1000;
+}
+.xh1 {
+    padding-bottom: 10px;
 }
