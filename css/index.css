@@ -6,7 +6,6 @@
   height: 50px;
   background: #acacac;
   color: white;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* тень — для красоты */
   z-index: 1000;
 }
 .xh1 {
