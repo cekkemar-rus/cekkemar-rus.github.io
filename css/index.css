@@ -8,11 +8,14 @@
     color: white;
     z-index: 1000;
 }
-#xh1 a {
+.xh1 {
+    margin-bottom: 20px;
+}
+.xh1 a {
     text-decoration: none;
     color: inherit;
 }
-#xh1 a:hover {
+.xh1 a:hover {
     text-decoration: underline;
 }
 #content {
