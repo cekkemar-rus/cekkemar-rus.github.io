@@ -8,6 +8,9 @@
   color: white;
   z-index: 1000;
 }
-.xh1 {
+#xh1 {
     padding-bottom: 20px;
+}
+#content {
+  margin-top: 70px;
 }
