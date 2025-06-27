@@ -1,29 +1,49 @@
-#kryshka {
+#header {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 50px;
-    background: #acacac;
-    border-bottom: dashed #121212 2px;
-    color: white;
+    background: #161b22;
+    border-bottom: dashed #003366 2px;
+    color: #e9e4dd;
     z-index: 1000;
+    white-space: nowrap;
 
     display: flex;
     align-items: center;
 }
+body {
+    color: #e3e3e3;
+}
 .xh1 {
     margin: 0;
-    font-size: 20px;
+    font-size: 22px;
     margin-left: 5%;
 }
-.xh1 a {
-    text-decoration: none;
-    color: inherit;
+#xh2 {
+    margin-top: 3vh;
 }
-.xh1 a:hover {
-    text-decoration: underline;
+h2 {
+    font-size: 20px;
 }
 #content {
     margin-top: 70px;
+    border-bottom: dashed #003366 2px;
+}
+.about {
+    border-bottom: dashed #003366 2px;
+}
+footer {
+    margin-top: 3rem;
+    padding: 1rem;
+    text-align: center;
+    color: #6e7681;
+    font-size: 0.9rem;
+}
+.f {
+    padding: 1rem;
+    text-align: center;
+    color: #6e7681;
+    font-size: 0.9rem;
 }
