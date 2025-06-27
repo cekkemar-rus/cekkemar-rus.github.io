@@ -9,12 +9,13 @@
     color: white;
     z-index: 1000;
 
-    display: flex;                 /* включаем Flexbox */
-    align-items: center;          /* по вертикали — по центру */
+    display: flex;
+    align-items: center;
 }
 .xh1 {
     margin: 0;
     font-size: 20px;
+    margin-left: 5%;
 }
 .xh1 a {
     text-decoration: none;
