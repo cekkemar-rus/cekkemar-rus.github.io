@@ -16,6 +16,12 @@
 body {
     color: #e3e3e3;
 }
+#heh {
+    border-bottom: dashed #e3e3e3 1px;
+}
+.txt {
+    line-height: 25px;
+}
 .xh1 {
     margin: 0;
     font-size: 22px;
@@ -27,9 +33,32 @@ body {
 h2 {
     font-size: 20px;
 }
+#main {
+    margin-top: 10vh;
+    margin-left: 11vw;
+    margin-right: 11vw;
+}
 #content {
     margin-top: 70px;
     border-bottom: dashed #003366 2px;
+}
+.nav-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+.nav-card {
+    background-color: #21262d;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: 0.2s ease-in-out;
+    text-decoration: none;
+    color: inherit;
+}
+.nav-card:hover {
+    background-color: #30363d;
 }
 .about {
     border-bottom: dashed #003366 2px;
