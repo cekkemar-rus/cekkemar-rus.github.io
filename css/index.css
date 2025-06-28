@@ -14,7 +14,9 @@
     align-items: center;
 }
 body {
+    margin: 0;
     color: #e3e3e3;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 #heh {
     border-bottom: dashed #e3e3e3 1px;
@@ -22,10 +24,16 @@ body {
 .txt {
     line-height: 25px;
 }
+.aptxt {
+    line-height: 1.33rem;
+}
 .xh1 {
     margin: 0;
-    font-size: 22px;
+    font-size: 1.2rem;
     margin-left: 5%;
+}
+.xh1:hover {
+    font-size: 1.3rem;
 }
 #xh2 {
     margin-top: 3vh;
@@ -35,6 +43,8 @@ h2 {
 }
 #main {
     margin-top: 10vh;
+}
+.maintxt {
     margin-left: 11vw;
     margin-right: 11vw;
 }
@@ -47,10 +57,11 @@ h2 {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1rem;
     margin-top: 1.5rem;
+    padding-bottom: 20px;
 }
 .nav-card {
     background-color: #21262d;
-    padding: 1rem;
+    padding: 0.8rem;
     border-radius: 8px;
     text-align: center;
     transition: 0.2s ease-in-out;
@@ -61,7 +72,12 @@ h2 {
     background-color: #30363d;
 }
 .about {
+    padding-top: 5vh;
+    padding-bottom: 50px;
     border-bottom: dashed #003366 2px;
+}
+#ap {
+    margin-top: 3vh;
 }
 footer {
     margin-top: 3rem;
