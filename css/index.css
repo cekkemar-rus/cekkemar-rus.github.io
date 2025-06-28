@@ -13,6 +13,11 @@
     display: flex;
     align-items: center;
 }
+@media (hover: none) and (pointer: coarse) {
+  body {
+    font-family: sans-serif;
+  }
+}
 body {
     margin: 0;
     color: #e3e3e3;
