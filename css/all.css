@@ -15,3 +15,14 @@ a:hover {
     font-size: 20px;
     text-align: center;
 }
+
+@media (hover: none) and (pointer: coarse) {
+  body {
+    font-family: sans-serif;
+  }
+}
+body {
+    margin: 0;
+    color: #e3e3e3;
+    font-family: "Comic Sans MS", sans-serif;
+}
