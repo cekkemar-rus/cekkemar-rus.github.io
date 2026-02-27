@@ -1,13 +1,13 @@
 # Nanmin rreloška u rrerimeka<br>(Таблица времён и аспектов)
 
-ㅤ                                     | Простое<br>Rajin<br>( ㅤ ) | Прогрессивное<br>Fetkiroq<br>(`fet`) | Совершённое<br>Kadent<br>(`amek`) | Мгновенное<br>Liknut<br>(`nymzi`) | Привычное<br>Jarem<br>(`jar`)
+ㅤ                                     | Простое<br>Rajin<br>( ㅤ ) | Прогрессивное<br>Fetkiroč<br>(`fet`) | Совершённое<br>Kadent<br>(`amek`) | Мгновенное<br>Liknut<br>(`nymzi`) | Привычное<br>Jarem<br>(`jar`)
 ------------------------------------:|:------------------------:|:------------------------------------:|:---------------------------------:|:---------------------------------:|:----------------------------:
 Прошедшее<br>Samiemloš<br>(`siv-`)   | Ar siv-tenielir          | Ar siv-tenielir fet                  | Ar siv-tenielir amek              | Ar siv-tenielir nymzi             | Ar siv-tenielir jar
 Настоящее<br>Manukagloss<br>(`mal-`) | Ehi mal-tenielimu        | Ehi mal-tenielimu fet                | Ehi mal-tenielimu amek            | Ehi mal-tenielimu nymzi           | Ehi mal-tenielimu jar
-Будущее<br>Daffaqkloss<br>(`daf-`)   | Os daf-tenieliq          | Os daf-tenieliq fet                  | Os daf-tenieliq amek              | Os daf-tenieliq nymzi             | Os daf-tenieliq jar 
+Будущее<br>Daffačkloss<br>(`daf-`)   | Os daf-tenielič          | Os daf-tenielič fet                  | Os daf-tenielič amek              | Os daf-tenielič nymzi             | Os daf-tenielič jar 
 
 - Простое / **Rajinloš** — Простое время. Мы просто констатируем факт, что вот такое действие, такие дела. А было оно совершено или нет, — возможно, и не узнать...
-- Прогрессивное / **Fetkiroqloš** — Несовершённое время. Аспект передаёт, что действие совершается. Банальный пример — глагол "делать": я делаю, я делал — "я занят, но ещё не закончил".
+- Прогрессивное / **Fetkiročloš** — Несовершённое время. Аспект передаёт, что действие совершается. Банальный пример — глагол "делать": я делаю, я делал — "я занят, но ещё не закончил".
 - Совершённое / **Kadentloš** — Совершённое время. Аспект передаёт, что действие завершено и/или у нас есть его результат.
 - Мгновенное / **Liknutloš** — Мгновенное время. Аспект передаёт, что действие совершено единожды, "в миг"; Действие было совершено, но сразу прервано или сразу же окончено.  
 Фокус на констатировании того, что это действие было. А имеет оно последствия или нет - неважно.  
