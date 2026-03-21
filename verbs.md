@@ -1,10 +1,43 @@
-# Nanmin rreloška u rrerimeka<br>(Таблица времён и аспектов)
+# Rretenmaut<br>Глаголы
+
+### Формы глаголов:
+
+- Инфинитив: `-ur / -iur` — начальная форма
+    - на примере `tenęliur` — "делать"
+- Модальная: `-c` — форма "мочь/хотеть делать"
+    - `tenęlic`
+- Активная: `-i` — основа действия, на которую клеятся окончания
+    - `tenęli`
+
+### Спряжение глаголов по лицам и родам:
+
+| Лицо       | Мужской р. | Женский р. | Средний р. | Неопред. р. | Примеры (на основе "tenęli-")
+|------------|------------|------------|------------|-------------|------------------------------------------
+| 1 л. (я)   | `-r`/`-р`  | `-s`/`-с`  | `-š`/`-ш`  | `-no`/`-но` | tenęlir / tenęlis / tenęliš / tenęlino   |
+| 2 л. (ты)  | `-m`/`-м`  | `-mu`/`-му`| `-tš`/`-тш`| `-ks`/`-кс` | tenęlim / tenęlimu / tenęlitš / tenęliks |
+| 3 л. (оно) | `-t`/`-т`  | `-ta`/`-та`| `-č`/`-ч`  | `-go`/`-го` | tenęlit / tenęlita / tenęlič / tenęligo  |
+
+> Местоимения опциональны, можно использовать или не использовать; зависит от стиля/ясности/контекста.  
+
+> Также перед окончанием можно вставить суффикс живости (`-tę-`/`-mę-`), чтобы передать "живость" лица:
+>   - `tenęlimęč` — "оно, неживое, делает"  
+
+### Повелительное наклонение:
+
+| Форма        | Окончание | Пример         | Значение                 |
+|--------------|-----------|----------------|--------------------------|
+| Агрессивная  | `-cyr`    | tenęlicyr mi!  | Делай это! (приказ)      |
+| Вежливая     | `-cir`    | tenęlicir mi.  | Делай это. (просьба)     |
+
+Слово "пожалуйста" — `žule` (используется только с `-cir` для правильной передачи настроения: "tenęlicir mi, žule")
+
+## Rrelošęka u rrerimeryka nanmin<br>(Таблица времён и аспектов)
 
 ㅤ                                     | Простое<br>Rajin<br>( ㅤ ) | Прогрессивное<br>Fetkiroč<br>(`fet`) | Совершённое<br>Kadent<br>(`amek`) | Мгновенное<br>Liknut<br>(`nymzi`) | Привычное<br>Jarem<br>(`jar`)
 ------------------------------------:|:------------------------:|:------------------------------------:|:---------------------------------:|:---------------------------------:|:----------------------------:
-Прошедшее<br>Samiemloš<br>(`siv-`)   | Ar siv-tenielir          | Ar siv-tenielir fet                  | Ar siv-tenielir amek              | Ar siv-tenielir nymzi             | Ar siv-tenielir jar
-Настоящее<br>Manukagloš<br>(`mal-`) | Ehi mal-tenielimu        | Ehi mal-tenielimu fet                | Ehi mal-tenielimu amek            | Ehi mal-tenielimu nymzi           | Ehi mal-tenielimu jar
-Будущее<br>Daffačkloš<br>(`daf-`)   | Os daf-tenielič          | Os daf-tenielič fet                  | Os daf-tenielič amek              | Os daf-tenielič nymzi             | Os daf-tenielič jar 
+Прошедшее<br>Samiemloš<br>(`s(i)-`)  | Ar stenielir             | Ar stenielir-fet                     | Ar stenielir-amek                 | Ar stenielir-nymzi                | Ar stenielir-jar
+Настоящее<br>Manukagloš<br>(`m(o)-`) | Ehi mtenielimu           | Ehi mtenielimu-fet                   | Ehi mtenielimu-amek               | Ehi mtenielimu-nymzi              | Ehi mtenielimu-jar
+Будущее<br>Daffačkloš<br>(`d(a)-`)   | Os datenielič            | Os datenielič-fet                    | Os datenielič-amek                | Os datenielič-nymzi               | Os datenielič-jar 
 
 - Простое / **Rajinloš** — Простое время. Мы просто констатируем факт, что вот такое действие, такие дела. А было оно совершено или нет, — возможно, и не узнать...
 - Прогрессивное / **Fetkiročloš** — Несовершённое время. Аспект передаёт, что действие совершается. Банальный пример — глагол "делать": я делаю, я делал — "я занят, но ещё не закончил".
